@@ -25,8 +25,8 @@ export const mockVillas = [
       "Plataforma de yoga panorámica al aire libre",
       "Servicio de mayordomo dedicado las 24 horas, los 7 días de la semana"
     ],
-    image: "/images/luxuria_amalfi.png",
-    imagePath: "/images/luxuria_amalfi.png",
+    image: "images/luxuria_amalfi.png",
+    imagePath: "images/luxuria_amalfi.png",
     keywords: ["amalfi", "italia", "bienestar", "vista al océano", "piscina infinita", "jardín de lujo", "spa orgánico", "sereno", "acantilado", "rejuvenecimiento", "meditación"],
     soundtrack: { title: 'Olas de Amalfi', type: 'marítimo', desc: 'Sonido suave de olas rompiendo contra las rocas' },
     transfers: {
@@ -126,8 +126,8 @@ export const mockVillas = [
       "Guía de montaña privado",
       "Salón climatizado para equipos de esquí"
     ],
-    image: "/images/luxuria_alps.png",
-    imagePath: "/images/luxuria_alps.png",
+    image: "images/luxuria_alps.png",
+    imagePath: "images/luxuria_alps.png",
     keywords: ["zermatt", "suiza", "aventura", "vista a la montaña nevada", "paredes de vidrio", "jacuzzi exterior", "chimenea", "chalet", "alpino", "esquí", "matterhorn"],
     soundtrack: { title: 'Viento Alpino', type: 'montañoso', desc: 'Susurro del viento frío entre las agujas de cedro' },
     transfers: {
@@ -226,8 +226,8 @@ export const mockVillas = [
       "Jardines de meditación zen",
       "Pabellón de masajes en la villa"
     ],
-    image: "/images/luxuria_bali.png",
-    imagePath: "/images/luxuria_bali.png",
+    image: "images/luxuria_bali.png",
+    imagePath: "images/luxuria_bali.png",
     keywords: ["bali", "indonesia", "tropical", "naturaleza", "bienestar zen", "ducha al aire libre", "piscina forestal", "shala de yoga", "santuario de la selva", "dosel", "aves"],
     soundtrack: { title: 'Lluvia Tropical', type: 'selva', desc: 'Gotas cayendo sobre hojas anchas y eco de cascada' },
     transfers: {
@@ -326,8 +326,8 @@ export const mockVillas = [
       "Plataforma de observación astronomica",
       "Vehículo de aventura todoterreno Tesla"
     ],
-    image: "/images/luxuria_desert.png",
-    imagePath: "/images/luxuria_desert.png",
+    image: "images/luxuria_desert.png",
+    imagePath: "images/luxuria_desert.png",
     keywords: ["utah", "ee. uu.", "aislamiento del desierto", "vista de roca roja", "concreto", "brutalista", "piscina de inmersión", "hoguera", "oasis de amangiri", "cañón"],
     soundtrack: { title: 'Silencio del Cañón', type: 'desierto', desc: 'Resonancia del viento seco y grillos del desierto' },
     transfers: {
@@ -426,8 +426,8 @@ export const mockVillas = [
       "Bodega de degustación de sake",
       "Anfitrión artesano cultural local"
     ],
-    image: "/images/luxuria_kyoto.png",
-    imagePath: "/images/luxuria_kyoto.png",
+    image: "images/luxuria_kyoto.png",
+    imagePath: "images/luxuria_kyoto.png",
     keywords: ["kyoto", "japón", "patrimonio cultural", "jardín zen de piedra", "tina hinoki de madera", "pabellón de ceremonia del té", "bambú", "retiro katsura", "tradición"],
     soundtrack: { title: 'Eco Zen de Kyoto', type: 'meditación', desc: 'Flauta de bambú y goteo de agua shishi-odoshi' },
     transfers: {
@@ -527,8 +527,8 @@ export const mockVillas = [
       "Pinar mediterráneo",
       "Casa de invitados VIP"
     ],
-    image: "/images/luxuria_ibiza.png",
-    imagePath: "/images/luxuria_ibiza.png",
+    image: "images/luxuria_ibiza.png",
+    imagePath: "images/luxuria_ibiza.png",
     keywords: ["ibiza", "españa", "fiesta social", "terraza de atardecer", "fachada modernista", "pinos", "sistema de sonido", "vista al mar", "finca es vedra"],
     soundtrack: { title: 'Atardecer en Ibiza', type: 'chillout', desc: 'Bases lentas ambient lounge con brisa de fondo' },
     transfers: {
